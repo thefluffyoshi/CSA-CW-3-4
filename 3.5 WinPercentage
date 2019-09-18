@@ -1,0 +1,14 @@
+import java.text.NumberFormat;
+import java.util.Scanner;
+public class WinPercentage 
+{
+    //computes percentage of games won by a team
+    public static void main (String[] args)
+    {
+        final int NUM_GAMES = 12;
+        int won;
+        double ratio;
+        
+        Scanner keyboard = new Scanner (System.in);
+    } //end of main
+} //end class WinPercentage
